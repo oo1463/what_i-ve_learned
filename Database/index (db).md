@@ -12,4 +12,4 @@
 inner node는 최대 2개의 key를 가지고
 leaf node는 최대 3개의 key,value값을 가질 수 있다 
 
-![B+Tree](./B+Tree.png)
+![ex_screenshot](./B+Tree.png)
