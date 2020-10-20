@@ -35,7 +35,7 @@ void quickSort(int i, int j) {
 }
 ```
 
-
+ 
 ## Quick Sort 개선
 
 - 피벗 값이 최소나 최대값으로 지정되어 파티션이 나누어지지 않았을 때 시간복잡도는 O(n^2)
