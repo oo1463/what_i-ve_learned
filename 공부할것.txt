@@ -3,9 +3,15 @@
 형상관리
 
 DB 
-orm이란?
 트랜잭션
 인덱스
 정규화
 
 Java Spring framework
+
+Docker
+kubernetes
+
+Redis
+
+Opensource contributing
