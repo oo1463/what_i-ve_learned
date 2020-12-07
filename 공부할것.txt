@@ -1,17 +1,25 @@
-호스팅이란?
+Language
+- Java
+- Go
 
-형상관리
+
+형상관리 
+- github
 
 DB 
-트랜잭션
-인덱스
-정규화
+- 트랜잭션
+- 인덱스
+- 정규화
 
-Java Spring framework
+framework
+- Java Spring framework
 
-Docker
-kubernetes
+가상화 컨테이너, MSA
+- Docker
+- kubernetes
 
-Redis
+
+Memcached, memory use database
+- Redis
 
 Opensource contributing
