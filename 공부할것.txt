@@ -23,3 +23,10 @@ Memcached, memory use database
 - Redis
 
 Opensource contributing
+
+
+
+네트워크
+HTTP 1.1  //  2
+소켓통신
+네트워크 
